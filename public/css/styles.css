@@ -24,6 +24,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     height: 100vh;
     background: var(--bg-image) no-repeat;
+    background-position: top center;
     color: var(--text-color);
     background-color: var(--bg-body);
 }
@@ -88,7 +89,7 @@ h1 {
 .container {
     width: 94%;
     padding: 0;
-    max-width: 40%;
+    max-width: 485px;
 }
 
 .cross {
